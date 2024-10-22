@@ -28,3 +28,75 @@
     line-height: 111%;
     letter-spacing: 0px;
 }
+
+.container {
+    margin: 30px auto;
+    width: 95%;
+
+}
+
+.statistical-summary {
+    background-color: var(--purple-500);
+    border-radius: 10px;
+}
+
+.statistical-summary-wrapper {
+    padding: var(--spc-500);
+    text-align: center;
+}
+
+
+.statistical-summary-wrapper > p:first-child {
+    margin-bottom: 0px;
+}
+
+
+
+.statistical-summary{
+  
+} 
+
+.statistical-summary:first-child {
+    color: white;
+    width: fit-content;
+    margin: 0px;
+
+}
+
+.ten-faster-txt {
+    color: var(--yellow-500);
+}
+
+.faster-txt {
+    font-style: italic;
+}
+
+.five-star-img-container{
+    margin-top: var(--spc-300); 
+}
+
+.five-star-img-container>img {
+    width: 100%; 
+}
+
+
+
+.statistical-summary:last-child {}
+
+
+.platform-manager{
+    background-color: var(--white);
+    border-radius: 10px;
+}
+
+aside > img{
+    width: 100%;
+}
+
+.platform-manager{
+    margin-top:var(--spc-400);
+}
+
+.platform-manager-content-wrapper{
+    padding:10px;
+}

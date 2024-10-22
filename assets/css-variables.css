@@ -1,9 +1,10 @@
 :root{
    --purple-100:#DBD1FC;
-   --purple-100:#7551DC; 
+   --purple-500:#7551DC; 
    --yellow-100:#F9EEE2;
    --yellow-500:#FFCC6A; 
    --black:#121212; 
+   --white:#FFFFF; 
 
    --spc-500:40px;
    --spc-400:32px;
